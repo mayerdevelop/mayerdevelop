@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mayerdevelop
+- 👀 I’m interested in learning and working with mobile development.
+- 🌱 I’m currently learning React Native Framework.
+- 📫 How to reach me felipemayer00@gmail.com
